@@ -1,4 +1,9 @@
-# Attila
+# Customized version of Attila theme
+
+
+Building upon the Attila theme to create a one page blog platform for my personal content.
+
+---
 
 A content focused responsive theme for [Ghost](http://github.com/tryghost/ghost/).
 
